@@ -1,10 +1,12 @@
 ---
-title: Trimurti Bhel
-emoji: 🐨
-colorFrom: pink
-colorTo: green
+title: trimurti-bhel
+emoji: 🐳
+colorFrom: yellow
+colorTo: yellow
 sdk: static
 pinned: false
+tags:
+  - deepsite
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
